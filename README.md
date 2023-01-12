@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning unity and flutter
 - 💞️ I’m looking to collaborate on great team
-- 📫 How to reach me .
+- 📫 mailto: ayezarniiaung@gmail.com.
 
 <!---
 ayezarniaung/ayezarniaung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
